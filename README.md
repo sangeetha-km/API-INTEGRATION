@@ -21,3 +21,7 @@ The frontend provides a clean and responsive user interface. It uses HTML for st
 The app includes basic error handling, such as displaying messages when an invalid city is entered or the API fails to respond. This project demonstrates core full-stack development skills like REST API creation, external API integration, asynchronous data handling, and responsive UI design.
 
 It serves as a simple but effective example of real-world API integration in web development.#
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/16dfccfd-5e17-43ed-8bc3-4b088a3aae7b)#
+
